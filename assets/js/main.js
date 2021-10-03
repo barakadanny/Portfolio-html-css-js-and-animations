@@ -2,7 +2,7 @@
 const navMenu = document.getElementById('nav-menu'),
     toggleMenu = document.getElementById('nav-toggle'),
     closeMenu = document.getElementById('nav-close')
-// const navItems = document.querySelectorAll('.nav__item')
+const navItems = document.querySelectorAll('.nav__item')
 
  for(var i=0; i<navItems; i++){
          navItems[i].addEventListener("click", function(){
