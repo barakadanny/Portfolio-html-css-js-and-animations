@@ -1,4 +1,4 @@
-# EventWork Platform
+# Portfolio with animations
 
 This project is a Portfolio, with 2 pages, the home page which give an overview about what you do and different project you've work on in the past or currently. 
 The website is well designed with moderate animations 
