@@ -11,7 +11,7 @@ The website is well designed with moderate animations
 
 ## Live Demo
 
-[Live Demo Link](https://barakadanny.github.io/Portfolio-html-css-js-and-animations/about.html)
+[Live Demo Link](https://barakadanny.github.io/Portfolio-html-css-js-and-animations/index.html)
 
 ## Getting Started
 
